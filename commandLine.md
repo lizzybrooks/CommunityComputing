@@ -1,5 +1,10 @@
 # Get Closer to your Computer with the Command Line
 
+Why the command line? 
+
+### Anatomy of a command line statement:
+![command line diagram from learn enough command line to be dangerous](https://github.com/lizzybrooks/CommunityComputing/blob/master/images/anatomy.png "command line diagram from learn enough command line to be dangerous")
+
 
 ### Command Line Basics
 from antiboredom/automating-video-itp
