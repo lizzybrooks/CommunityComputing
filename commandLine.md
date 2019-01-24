@@ -7,7 +7,7 @@ Why the command line?
 
 
 #### Try typing some basic commands
-######This section is forked from [antiboredom/automating-video-itp](https://github.com/antiboredom/automating-video-itp)
+###### This section is forked from [antiboredom/automating-video-itp](https://github.com/antiboredom/automating-video-itp)
 
 ----
 
@@ -31,7 +31,7 @@ ls
 
 Show name of current directory and full path. 
 ###### Path means the route that your computer will take to reach a particular file. To the computer, this is a "string" of text that it will follow to find your file. 
-Fun fact: pwd stands for print working directory. 
+###### Fun fact: pwd stands for print working directory. 
 
 ```
 pwd
