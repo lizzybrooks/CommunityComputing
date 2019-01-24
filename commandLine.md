@@ -1,12 +1,8 @@
 # Get Closer to your Computer with the Command Line
 
 
-# Command Line Basics
+### Command Line Basics
 from antiboredom/automating-video-itp
-
-This is a very introductory introduction to the command line. Those interested in learning more should see: 
-[Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
-
 
 ----
 
