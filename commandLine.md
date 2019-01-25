@@ -67,13 +67,30 @@ Go to your home directory. (As in, get out of any folder that you're in).
 cd
 ```
 
+Now go to desktop
+
+```
+cd desktop
+```
+
 Make a new directory. (In this context, directory = folder). 
 
 ```
 mkdir DIRECTORYNAME
 ```
 
-Open a file using the default application (mac only)
+Make a new text file. Call it whatever you want. I'm calling mine LoveWillTearUsApart
+```
+cat > lovewilltearusapart.txt
+```
+When you push enter this time, you don't go back to the prompt. You get a cursor. You can now add text to your file.
+Type some song lyrics that you like, or write down what you ate for breakfast.
+```
+When you're finished, push CONTROL D. 
+```
+Now go check to see if your file is there. 
+
+Open your file using the default application (mac only)
 
 ```
 open FILENAME
