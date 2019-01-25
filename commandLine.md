@@ -5,9 +5,8 @@ Why the command line?
 #### Anatomy of a command line statement 
 ```
 Elizabeths-MacBook-Pro:~ elizabethbrooks$ echo hello 
-PROMPT (including your current location in your computer, e.g. you're ready to write a command in the elizabethbrooks directory)$  COMMAND (what do you want the computer to do? echo, which means repeat something) ARGUMENT (do it to what? echo the word hello).
-
 ```
+PROMPT (including your current location in your computer, e.g. you're ready to write a command in the elizabethbrooks directory)$  COMMAND (what do you want the computer to do? echo, which means repeat something) ARGUMENT (do it to what? echo the word hello).
 
 
 #### Try typing some basic commands
