@@ -7,19 +7,19 @@ Why the command line?
 ```
 Elizabeths-MacBook-Pro:~ elizabethbrooks$ echo hello 
 ```
-The first piece is the PROMPT (including your current location in your computer, e.g. you're ready to write a command in the elizabethbrooks directory)$  
-Then you have a COMMAND (what do you want the computer to do? echo, which means repeat something) 
-And finally you've got an ARGUMENT (do it to what? echo the word hello).
+###### The first piece is the PROMPT (including your current location in your computer, e.g. you're ready to write a command in the elizabethbrooks directory)$  
+###### Then you have a COMMAND (what do you want the computer to do? echo, which means repeat something) 
+###### And finally you've got an ARGUMENT (do it to what? echo the word hello).
 
 ```
 Elizabeths-MacBook-Pro:~ elizabethbrooks$ cd documents
 ```
-In the above line, I start in my home folder, like the big folder that holds everything on my computer and I cd or change directory to go to the documents folder. 
+###### In the above line, I start in my home folder, like the big folder that holds everything on my computer and I cd or change directory to go to the documents folder. 
 
 ```
 Elizabeths-MacBook-Pro:documents elizabethbrooks$ mkdir whyamihere
 ```
-Then, you can see the prompt changes to show that I'm in documents. And then I use the mkdir command to make a directory (or folder) called whyamihere.
+###### Then, you can see the prompt changes to show that I'm in documents. And then I use the mkdir command to make a directory (or folder) called whyamihere.
 
 Try this yourself! 
 
@@ -79,7 +79,7 @@ Make a new directory. (In this context, directory = folder).
 mkdir DIRECTORYNAME
 ```
 
-Make a new text file. Call it whatever you want. I'm calling mine LoveWillTearUsApart
+Make a new text file. Call it whatever you want. 
 ```
 cat > lovewilltearusapart.txt
 ```
