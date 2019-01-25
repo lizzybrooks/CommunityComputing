@@ -1,4 +1,4 @@
-# Get Closer to your Computer with the Command Line
+# Goodbye GUI: Get To Know Your Computer Better with the Command Line
 
 Why the command line? 
 ###### The command-line interface, sometimes referred to as the CLI, is a tool into which you can type text commands to perform specific tasks—in contrast to the mouse’s pointing and clicking on menus and buttons. Since you can directly control the computer by typing, many tasks can be performed more quickly, and some tasks can be automated with special commands that loop through and perform the same action on many files—saving you, potentially, loads of time in the process. (This explanation is from [Lee Tusman's introduction to command line class](http://leetusman.com/intermediate-programming/posts/intro-to-command-line/), which offers a more thorough explanation of what and how). 
@@ -127,7 +127,7 @@ grep "search term" FILENAME
 Okay. You're basically a pro now. You're ready to: 
 # Download and run software from the Command Line
 
-There are lots of programs that you can run through to command line interface, so feel free to explore and try things out.
+There are lots of programs that you can run through the command line interface, so feel free to explore and try things out.
 
 A good one to start with is a video editor called ffmpeg. [You can find a tutorial on downloading and using ffmpeg over here.](https://github.com/antiboredom/automating-video-itp/blob/master/FFMPEG.md)
 
