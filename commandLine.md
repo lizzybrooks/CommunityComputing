@@ -3,6 +3,8 @@
 Why the command line? 
 ###### The command-line interface, sometimes referred to as the CLI, is a tool into which you can type text commands to perform specific tasks—in contrast to the mouse’s pointing and clicking on menus and buttons. Since you can directly control the computer by typing, many tasks can be performed more quickly, and some tasks can be automated with special commands that loop through and perform the same action on many files—saving you, potentially, loads of time in the process. (This explanation is from [Lee Tusman's introduction to command line class](http://leetusman.com/intermediate-programming/posts/intro-to-command-line/), which offers a more thorough explanation of what and how). 
 
+Windows People: your interface is slightly different. You may want to install a [terminal emulator](http://cmder.net/)
+
 ### Anatomy of a command line statement 
 ```
 Elizabeths-MacBook-Pro:~ elizabethbrooks$ echo hello 
@@ -121,3 +123,5 @@ Search for a something in a text file
 grep "search term" FILENAME
 ```
 
+Okay. You're basically a pro now. You're ready to: 
+# Download and run software from the Command Line
