@@ -3,15 +3,28 @@
 Why the command line? 
 The command-line interface, sometimes referred to as the CLI, is a tool into which you can type text commands to perform specific tasks—in contrast to the mouse’s pointing and clicking on menus and buttons. Since you can directly control the computer by typing, many tasks can be performed more quickly, and some tasks can be automated with special commands that loop through and perform the same action on many files—saving you, potentially, loads of time in the process. (This explanation is from [Lee Tusman's introduction to command line class](http://leetusman.com/intermediate-programming/posts/intro-to-command-line/), which offers a more thorough explanation of what and how). 
 
-#### Anatomy of a command line statement 
+### Anatomy of a command line statement 
 ```
 Elizabeths-MacBook-Pro:~ elizabethbrooks$ echo hello 
 ```
-PROMPT (including your current location in your computer, e.g. you're ready to write a command in the elizabethbrooks directory)$  COMMAND (what do you want the computer to do? echo, which means repeat something) ARGUMENT (do it to what? echo the word hello).
+The first piece is the PROMPT (including your current location in your computer, e.g. you're ready to write a command in the elizabethbrooks directory)$  
+Then you have a COMMAND (what do you want the computer to do? echo, which means repeat something) 
+And finally you've got an ARGUMENT (do it to what? echo the word hello).
+
+```
+Elizabeths-MacBook-Pro:~ elizabethbrooks$ cd documents
+```
+In the above line, I start in my home folder, like the big folder that holds everything on my computer and I cd or change directory to go to the documents folder. 
+
+```
+Elizabeths-MacBook-Pro:documents elizabethbrooks$ mkdir whyamihere
+```
+Then, you can see the prompt changes to show that I'm in documents. And then I use the mkdir command to make a directory (or folder) called whyamihere.
+
+Try this yourself! 
 
 
-#### Try typing some basic commands
-###### This section is forked from [antiboredom/automating-video-itp](https://github.com/antiboredom/automating-video-itp)
+### Try typing some basic commands ###### This section is forked from [antiboredom/automating-video-itp](https://github.com/antiboredom/automating-video-itp)
 
 ----
 
