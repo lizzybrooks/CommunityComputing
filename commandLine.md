@@ -25,8 +25,8 @@ Try this yourself!
 
 
 ## Try typing some basic commands 
-This section is forked from [antiboredom/automating-video-itp](https://github.com/antiboredom/automating-video-itp)
 ----
+###### This section is forked from [antiboredom/automating-video-itp](https://github.com/antiboredom/automating-video-itp)
 
 Make the computer say hi to you. Make the computer say something besides "hi". 
 
