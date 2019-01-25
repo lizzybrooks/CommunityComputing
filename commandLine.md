@@ -123,5 +123,13 @@ Search for a something in a text file
 grep "search term" FILENAME
 ```
 
+
 Okay. You're basically a pro now. You're ready to: 
 # Download and run software from the Command Line
+
+There are lots of programs that you can run through to command line interface, so feel free to explore and try things out.
+
+A good one to start with is a video editor called ffmpeg. [You can find a tutorial on downloading and using ffmpeg over here.](https://github.com/antiboredom/automating-video-itp/blob/master/FFMPEG.md)
+
+Congratulations on your new knowledge. Remember, it's just the beginning. If you want to explore more of what the command line can do, [here is a good, thorough tutorial].(https://www.learnenough.com/command-line-tutorial/basics) 
+
