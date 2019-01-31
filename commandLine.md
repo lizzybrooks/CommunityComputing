@@ -31,12 +31,25 @@ Try this yourself!
 ###### This section is forked from [antiboredom/automating-video-itp](https://github.com/antiboredom/automating-video-itp)
 
 
-Make the computer say hi to you. Make the computer say something besides "hi". 
+Make the computer say hi to you. 
 
 ```
 echo hi
 ```
+No, actually make the computer say hi.(Make sure your speakers are on for this one). 
 
+```
+say hi your name! how are you doing today? 
+
+```
+
+There some other voices available (but they are limited). You can find them at System Preferences --> Accessibility --> Speech. Specify them like this: 
+
+```
+say -v Karen hello
+
+```
+Okay. Enough of that. 
 Navigate to a directory (aka folder) on your computer. You may have done this before. (cd stands for change directory). 
 
 ```
@@ -83,14 +96,24 @@ mkdir DIRECTORYNAME
 
 Make a new text file. Call it whatever you want. 
 ```
-cat > lovewilltearusapart.txt
+cat > frozenlyrics.txt
 ```
 When you push enter this time, you don't go back to the prompt. You get a cursor. You can now add text to your file.
 Type some song lyrics that you like, or write down what you ate for breakfast.
 ```
-When you're finished, push CONTROL D. 
+The snow glows white on the mountain tonight
+Not a footprint to be seen
+A kingdom of isolation,
+And it looks like I'm the queen.
+
+I didn't get to eat breakfast today :(
 ```
-Now go check to see if your file is there. 
+Now get out of there and save your file. 
+
+```
+CONTROL D. 
+```
+Go check to see if your file is there. 
 
 Open your file using the default application (mac only)
 
@@ -111,16 +134,26 @@ Print the contents of a file to the screen
 cat FILENAME
 ```
 
-Print the contents of a file to the screen, with pagination
+Say the contents of the file
 
 ```
-more FILENAME
+cat frozenlyrics.txt | say -v Karen
 ```
 
 Search for a something in a text file
 
 ```
 grep "search term" FILENAME
+
+grep "heart" LucidDreams.txt
+```
+
+Search a song and say the lyrics that contain certain words
+
+```
+grep "search term" FILENAME | say -v Voice
+
+grep "heart" LucidDreams.txt | say -v Ralph
 ```
 
 
