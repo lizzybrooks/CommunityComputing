@@ -43,7 +43,7 @@ say hi your name! how are you doing today?
 
 ```
 
-There some other voices available (but they are limited). You can find them at System Preferences --> Accessibility --> Speech. Specify them like this: 
+There some [other voices available (but they are limited)](https://gohgarry.wordpress.com/2010/01/16/fun-with-mac-say-command/). May need to enable them at System Preferences --> Accessibility --> Speech. Specify them like this: 
 
 ```
 say -v Karen hello
